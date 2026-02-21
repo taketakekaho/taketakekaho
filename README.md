@@ -17,6 +17,12 @@
 - 📫 ご連絡は: [X - @taketakekaho](https://twitter.com/taketakekaho)
 <br>
 
+## ✉️ Connect with me:
+<p align="left">
+<a href="https://github.com/taketakekaho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="taketakekaho" height="30" width="40" /></a>
+<a href="https://twitter.com/taketakekaho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taketakekaho" height="30" width="40" /></a>
+</p>
+<br>
 
 <!-- 3. 好きな技術スタック -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
